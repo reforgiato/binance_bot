@@ -1,2 +1,2 @@
 # binance_bot
-very simple bot that uses the binance api to make market orders.
+very simple bot written in python 3 that uses the binance python api to make market orders.
